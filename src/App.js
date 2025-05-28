@@ -267,11 +267,11 @@ function App() {
                                   <div className="resume-timeline">
                                       <div className="item scroll-animation" data-animation="fade_from_right">
                                           <span className="date">2021 - 2025</span>
-                                          <h2>FinCEN - Solution Specialist - Full-stack Developer </h2>
+                                          <h2>FinCEN - Solution Specialist </h2>
                                           <p>Deloitte   </p>
-                                          <h2>Ginnie Mae - Solution Specialist - Full-stack Developer</h2>
+                                          <h2>Ginnie Mae - Solution Specialist </h2>
                                           <p>Deloitte </p>
-                                          <h2>Cardinal Health - Solution Specialist - Full-stack Developer</h2>
+                                          <h2>Cardinal Health - Solution Specialist </h2>
                                           <p>Deloitte </p>
                                       </div>
                                       <div className="item scroll-animation" data-animation="fade_from_right">
