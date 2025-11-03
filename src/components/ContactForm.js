@@ -25,6 +25,8 @@ const ContactForm = () => {
   };
 
   return (
+    
+
     <form ref={formRef} onSubmit={sendEmail} className="contact-form">
       {sent && (
         <div className="alert alert-success" role="alert">
